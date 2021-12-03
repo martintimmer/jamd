@@ -7,7 +7,7 @@
     </transition>
     <transition name="theme">
       <div v-if="color == 'bright'">
-        <g-image src="~/assets/img/logo-dark.svg" alt="logo" />
+        <g-image src="~/assets/img/logo-dark.png" alt="logo" />
       </div>
     </transition>
   </g-link>
